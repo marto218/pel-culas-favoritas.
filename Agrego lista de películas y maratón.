@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Mis peliculas favoritas</h1>
+    <ul>UP</ul>
+    <ul>Un show mas</ul>
+    <ul>La razon de estar contigo</ul>
+    <ul>Dragon ball Z y Super</ul>
+    <ul>One piece</ul>
+    
+    <ol>Elejimos la peli "La razon de estar contigo" y otras mas para ver</ol>
+    <ol>Hacemos de comer fajitas</ol>
+    <ol>invitamos un maximo de 5 personas</ol>
+    <ol>Empezamos la maraton</ol>
+</body>
+</html>
